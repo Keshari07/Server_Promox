@@ -1,0 +1,171 @@
+https://tryhackme.com/room/introtolan
+
+
+https://tryhackme.com/room/dnsindetail
+
+
+
+https://tryhackme.com/room/httpindetail
+
+                   
+                        Windows Fundamentals 1
+
+https://tryhackme.com/room/windowsfundamentals1xbx
+
+                                   Windows Fundamentals 2
+								   
+	https://tryhackme.com/room/windowsfundamentals2x0x
+
+
+                                       Windows Fundamentals 3
+
+https://tryhackme.com/room/windowsfundamentals3xzx
+
+									    Threat and Vulnerability Management
+https://tryhackme.com/module/threat-and-vulnerability-management
+										
+									
+                                MITRE
+https://tryhackme.com/room/mitre
+
+	                           Web Hacking Fundamentals
+    
+                       https://tryhackme.com/module/web-hacking-1
+					   
+HTTP in detail
+
+https://tryhackme.com/room/httpindetail
+
+Burp Suite: The Basics
+
+https://tryhackme.com/r/room/burpsuitebasics
+
+
+OWASP Top 10 - 2021
+
+https://tryhackme.com/r/room/owasptop102021
+
+								
+										
+										Security Engineer
+								https://tryhackme.com/paths
+ 								
+										
+				Security Engineer Intro
+
+https://tryhackme.com/room/securityengineerintro
+
+				
+										
+				
+                                    Introduction to Cryptography	
+                    https://tryhackme.com/room/cryptographyintro
+					
+			                             
+										 
+                
+				 
+				 
+					
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------
+Completed
+
+https://tryhackme.com/room/vulnversity
+
+
+                                            Advent of Cyber 2022
+
+https://tryhackme.com/r/room/adventofcyber4
+
+                       Advent of Cyber 1 [2019]
+
+ 
+https://tryhackme.com/r/room/25daysofchristmas
+
+https://tryhackme.com/r/room/adventofcyber2
+
+https://tryhackme.com/r/room/adventofcyber3
+
+
+https://tryhackme.com/r/room/adventofcyber23sidequest
+
+https://tryhackme.com/r/room/learncyberin25days
+
+https://tryhackme.com/r/room/adventofcyber2023
+
+
+https://tryhackme.com/r/room/securityawarenessintro
+
+https://tryhackme.com/r/room/beginnerpathintro
+
+
+https://tryhackme.com/r/room/confluence202322515
+
+
+                                      HTTP/2 Request Smuggling
+									  
+      https://tryhackme.com/r/room/http2requestsmuggling    
+                                 
+	                                      
+										  Intro to IaC
+   https://tryhackme.com/room/introtoiac
+
+
+
+                                      GitLab CVE-2023-7028
+
+https://tryhackme.com/r/room/gitlabcve20237028
+
+
+
+                                         
+										HTTP Request Smuggling
+https://tryhackme.com/r/room/httprequestsmuggling
+
+
+
+
+
+                                         Linux File System Analysis
+										 
+https://tryhackme.com/r/room/linuxfilesystemanalysis
+
+                                        Hack Smarter Security
+										
+https://tryhackme.com/r/room/hacksmartersecurity										
+
+
+
+
+
+Operating Systems – Linux (Ubuntu, CentOS, RHEL), Windows
+Version Controlling – Git
+SCM Tools – GitHub or GitLab or BitBucket
+Scripting Languages - Bash/Shell or Python
+Databases – MySQL or PostgreSQL
+Application Web Servers – NGINX or Apache2
+Cloud – AWS or Azure or GCP or DigitalOcean
+Configuration Management – Ansible (basics)
+Infrastructure as Code – Terraform, CloudFormation (basic)
+CI/CD – Jenkins or GitLab CI/CD
+Containerization – Docker
+Orchestration – Kubernetes (basic)
+Knowledge of at least one High-level Programming Languages like Java, NodeJS, Python etc.
+Other:
+
+
+
